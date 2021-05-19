@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pross326: I'm currently a High School Math Teacher
 - 👀 I’m interested in ...Full Stack Development
-- 🌱 I’m currently learning ... Javascript and Python
+- 🌱 I’m currently learning ... Front End Web Development
 - 💞️ I’m looking to collaborate on ... ways to make myself more marketable for employers
 - 📫 How to reach me ... pross326@gmail.com
 
