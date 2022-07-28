@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pross326: I'm currently transitioning from a high school math teacher (5 years) to a front end developer (1 year)
-- 👀 I’m interested in ...Front End Development
-- 🌱 I’m currently learning ... Front End Web Development
+- 👋 Hi, I’m @pross326: I've recently transitioned from a high school math teacher (6 years) to a Web Developer
+- 👀 I’m interested in ...Web Development
+- 🌱 I’m currently learning ... Vue 3
 - 💞️ I’m looking to collaborate on ... resources to improve my programming skills!
 - 📫 How to reach me ... pross326@gmail.com
 
